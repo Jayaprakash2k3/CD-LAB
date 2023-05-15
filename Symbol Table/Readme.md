@@ -8,4 +8,4 @@
 <hr>
 <h1> Output </h1>
 <hr>
-<img src="OUTPUT.png">
+<img src="output.png">
