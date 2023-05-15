@@ -16,7 +16,6 @@ for line in code:
                 "Address":id(word),
                 "isFunction":"(" in word and ")" in word,
                 "Line of Decleartion":code.index(line)+1,
-                "Usage":[]
             }
 
 for each in symbol:
