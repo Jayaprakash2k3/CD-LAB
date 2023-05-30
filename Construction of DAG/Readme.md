@@ -1,9 +1,6 @@
-<h1> Construction of DAG </h1>
-<hr>
-<img src="DAG.png">
-<hr>
-<h1> Input FORMAT </h1>
-<hr>
+# Construction of DAG
+![Program](DAG.png)
+## Input FORMAT
 THE INPUT SHOULD BE OF THE FOLLOWING FORM:
 ```
 - Variable name should be single letter
@@ -11,7 +8,5 @@ THE INPUT SHOULD BE OF THE FOLLOWING FORM:
 - <result>=<oprOne><Operator><oprTwo>
 - a=b+c
 ```
-<hr>
-<h1> Output </h1>
-<hr>
-<img src="output.png">
+## Output
+![Output](output.png)
